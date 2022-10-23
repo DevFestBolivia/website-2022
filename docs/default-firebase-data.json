@@ -1663,197 +1663,857 @@
     {
       "members": [
         {
-          "name": "Oleh Zasadnyy",
-          "photo": "/images/people/oleh_zasadnyy.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
+          "name": "Alejandro Núñez Arroyo",
+          "photo": "/images/team/alejandro.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Falejandro.jpg?alt=media&token=0b1d0682-5617-49b7-a4f0-ff3ab4d07156",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
+              "link": "https://www.facebook.com/AlejandroNunezArroyo/",
               "name": "Facebook"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
+              "link": "https://twitter.com/AleNunezArroyo",
               "name": "Twitter"
             },
             {
-              "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/alejandronunezarroyo/",
+              "name": "Linkedin"
             }
           ],
           "order": 0,
-          "title": "Website and sponsors"
+          "title": "Data Analyst | GDG Sucre"
         },
         {
-          "name": "Sofiya Huts",
-          "photo": "/images/people/sofiya_huts.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
+          "name": "Nigel Dávila Maturano",
+          "photo": "/images/team/nigel.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fnigel.jpg?alt=media&token=817d3e6f-8bfc-4d5d-92b3-8d6e4d1ca2ef",
           "socials": [
             {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/sophie.huts.7",
-              "name": "Facebook"
+              "icon": "twitter",
+              "link": "https://twitter.com/nisheldam",
+              "name": "Twitter"
             }
           ],
           "order": 1,
-          "title": "Social and media"
+          "title": "UI/UX designer | GDSC UMSS, WTM Cochabamba"
         },
         {
-          "name": "Vitaliy Zasadnyy",
-          "photo": "/images/people/vitaliy_zasadnyy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
+          "name": "Ronald Chipana Wariste",
+          "photo": "/images/team/ronald.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fronald.jpg?alt=media&token=bb207d8e-b327-4388-8566-4cab3ef0b63b",
           "socials": [
             {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/zasadnyy",
-              "name": "Linkedin"
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ronald.chipana.31",
+              "name": "Facebook"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/zasadnyy",
+              "link": "https://twitter.com/RonaldChipanaW",
               "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://v.zasadnyy.com/",
-              "name": "Blog"
             }
           ],
           "order": 2,
-          "title": "Speakers"
+          "title": "Angular Bolivia, GDG Cochabamba, WTM Cochabamba"
         },
         {
-          "name": "Marta Maxymiak",
-          "photo": "/images/people/marta_maxymiak.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
+          "name": "Zulema Vicente",
+          "photo": "/images/team/zule.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fzule.png?alt=media&token=1bf4135d-ca6d-42fc-a2bd-dd11539e1cfd",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/marta.maxymiak",
+              "link": "https://www.facebook.com/vpzulema/",
               "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/vpzulema",
+              "name": "Twitter"
             }
           ],
           "order": 3,
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Ostap Andrusiv",
-          "photo": "/images/people/ostap_andrusiv.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/ostap.andrusiv",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/p1f",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://andrusiv.com/",
-              "name": "Blog"
-            }
-          ],
-          "order": 4,
-          "title": "Sponsors"
-        },
-        {
-          "name": "Vasylyna Mytsak",
-          "photo": "/images/people/vasylyna_mytsak.jpg",
-          "photoUrl": "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/vasylyna.mytsak",
-              "name": "Facebook"
-            }
-          ],
-          "order": 5,
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Volodya Karpliuk",
-          "photo": "/images/people/volodya_karpliuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/volodya.karpluk",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/keyv23",
-              "name": "Twitter"
-            }
-          ],
-          "order": 6,
-          "title": "Speakers"
-        },
-        {
-          "name": "Diana Pinchuk",
-          "photo": "/images/people/diana_pinchuk.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/diana.pinchuk.9",
-              "name": "Facebook"
-            }
-          ],
-          "order": 7,
-          "title": "Social and media"
+          "title": "UI/UX designer | Angular Bolivia"
         }
       ],
-      "title": "Core Team"
+      "title": "Design Team"
     },
     {
       "members": [
         {
-          "name": "Ihor Dvoretskyi",
-          "photo": "/images/people/ihor_dvoretskyi.jpg",
-          "photoUrl": "",
+          "name": "Andrea Cornejo",
+          "photo": "/images/team/andrea.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Falejandro.jpg?alt=media&token=0b1d0682-5617-49b7-a4f0-ff3ab4d07156",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/idvoretskyi",
+              "link": "https://www.facebook.com/andreacoding0/",
               "name": "Facebook"
             },
             {
               "icon": "twitter",
-              "link": "https://twitter.com/idvoretskyi",
+              "link": "https://twitter.com/andreacoding",
               "name": "Twitter"
             }
           ],
           "order": 0,
-          "title": "Cloud stream"
+          "title": "Mobile Developer | GDG Sucre, Mujeres Tics, WTM Sucre"
         },
         {
-          "name": "Dmytro Danylyk",
-          "photo": "/images/people/dmytro_danylyk.jpg",
-          "photoUrl": "",
+          "name": "Daniel Asin",
+          "photo": "/images/team/dani.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fdani.jpeg?alt=media&token=db44e76b-044a-4f0b-89b2-3f3687e3503c",
+          "socials": [],
+          "order": 1,
+          "title": "Software Developer | GDG Cochabamba, Angular Bolivia"
+        },
+        {
+          "name": "Diana Vargas Orellana",
+          "photo": "/images/team/diana-vargas.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fdiana-vargas.jpg?alt=media&token=13602b2a-3dd3-4c96-9d8f-9c2296611123",
           "socials": [
             {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/diana.vargas.524381/",
+              "name": "Facebook"
+            }
+          ],
+          "order": 1,
+          "title": "Software Developer Student | GDG Cochabamba, GDSC UMSS, Mujeres Tics"
+        },
+        {
+          "name": "Emilse Lazo Garcia",
+          "photo": "/images/team/emi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Femi.jpg?alt=media&token=ae37519d-1795-4b0d-be8e-fa972f29f179",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/emilse.lazogarcia",
+              "name": "Facebook"
+            }
+          ],
+          "order": 2,
+          "title": "Administrator | GDG Cochabamba, WTM Cochabamba"
+        },
+        {
+          "name": "Fernando Quinteros Gutierrez",
+          "photo": "/images/team/fer.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Ffer.jpg?alt=media&token=d68a1810-44fe-4005-a475-86ebe52bf0ca",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mew2432",
+              "name": "Facebook"
+            },
+            {
               "icon": "twitter",
-              "link": "https://twitter.com/dmytrodanylyk",
+              "link": "https://twitter.com/devferx?s=09",
               "name": "Twitter"
             },
             {
               "icon": "website",
-              "link": "http://www.dmytrodanylyk.com/#/about",
+              "link": "https://github.com/devferx",
               "name": "Website"
             }
           ],
-          "order": 1,
-          "title": "Android Stream"
+          "order": 3,
+          "title": "Software Developer Student | GDG Cochabamba, Angular Bolivia, GDSC UMSS"
+        },
+        {
+          "name": "Nestor Franklin Castillo Centurio",
+          "photo": "/images/team/franklin.webp",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Ffranklin.webp?alt=media&token=4c10c997-8aa5-45a9-9ded-e110856614b5",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/franklin.castillo.39750/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Castillo_Frankl",
+              "name": "Twitter"
+            }
+          ],
+          "order": 4,
+          "title": "Industrial Engineer | GDG Sucre, Mujeres Tics"
+        },
+        {
+          "name": "Gabriela Torrico",
+          "photo": "/images/team/gaby.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fgaby.jpg?alt=media&token=6c11a50a-05fd-4889-a621-9157ef1e39a3",
+          "socials": [],
+          "order": 5,
+          "title": "System Engineer | Angular Bolivia"
+        },
+        {
+          "name": "Heidy Paco Cruz",
+          "photo": "/images/team/gaby.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fheidi.png?alt=media&token=90cf67af-ef9e-421e-b706-1f6149319b17",
+          "socials": [],
+          "order": 6,
+          "title": "GDG Sucre"
+        },
+        {
+          "name": "Jeymi Brigitte Paulas Condori",
+          "photo": "/images/team/jeymi.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fjeymi.png?alt=media&token=568e934a-b565-4702-b2aa-ae3df30d2e4f",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/jeymi.paulas",
+              "name": "Facebook"
+            },
+          ],
+          "order": 7,
+          "title": "Software Developer | GDG Cochabamba, WTM Cochabamba"
+        },
+        {
+          "name": "Jhonny Ventiades Guillen",
+          "photo": "/images/team/jhonny.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fjhonny.png?alt=media&token=54306f2e-05c6-40a2-866b-4ecd003f98c7",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/jhonnyventiades",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/JhonnyVentiades",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://jhonnyventiades.com/",
+              "name": "Website"
+            }
+          ],
+          "order": 8,
+          "title": "Tech Lead, CTO PasanaQ | GDG Santa Cruz"
+        },
+        {
+          "name": "Vania Marisela Catorceno Carballo",
+          "photo": "/images/team/vania.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fvania.jpg?alt=media&token=1589b3ab-c3f1-4972-9dd2-839e467a3db4",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/vania.catorceno/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/vanicatorceno",
+              "name": "Twitter"
+            }
+          ],
+          "order": 9,
+          "title": "Software enginner | GDG Cochabamba, WTM Cochabamba, GP4Tech"
         }
       ],
-      "title": "Program Committee"
+      "title": "Logistic Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Gabriela Becerra Villanueva",
+          "photo": "/images/team/gabriela.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fgabriela.jpg?alt=media&token=691c8acd-f0bb-447e-921c-16e53f493320",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/franklin.castillo.39750/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Castillo_Frankl",
+              "name": "Twitter"
+            }
+          ],
+          "order": 1,
+          "title": "Manager | GP4Tech"
+        },
+        {
+          "name": "Karen Lara Ferrufino",
+          "photo": "/images/team/karen.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fkaren.jpg?alt=media&token=8aade886-b94d-4621-a83d-46af20395831",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/klarafer.ferrufinokarenlaraferrufino",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/KarenLaraF",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/karen-lara-ferrufino-19bba41581",
+              "name": "LinkedIn"
+            }
+          ],
+          "order": 2,
+          "title": "Project Manager | Mujeres Tics"
+        },
+        {
+          "name": "Wilma Paca",
+          "photo": "/images/team/wilma.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fwilma.png?alt=media&token=4c1d77da-1765-46e5-8db2-6d858847413b",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/wilma.paca",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/PacaWilma",
+              "name": "Twitter"
+            }
+          ],
+          "order": 3,
+          "title": "QA Engineer | GP4Tech"
+        }
+      ],
+      "title": "Sponsors Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Ariel Ortuño Solis",
+          "photo": "/images/team/ariel.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fariel.jpg?alt=media&token=b49b15dd-61b0-42ac-978b-b392abd2df64",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/arielortunosolis",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/arielgos",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/arielgos",
+              "name": "Linkedin"
+            }
+          ],
+          "order": 0,
+          "title": "Senior Software Engineer | GDG Santa Cruz"
+        },
+        {
+          "name": "Andrea Araceli Ariñez Alvarez",
+          "photo": "/images/team/arita.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Farita.jpg?alt=media&token=43c09a0f-e3cc-4e3a-9e80-067c5425cf91",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/andrea.aritarinez",
+              "name": "Facebook"
+            }
+          ],
+          "order": 1,
+          "title": "Student | GDSC UCB, Mujeres Tics"
+        },
+        {
+          "name": "Elias Franklin Negrete Justiniano",
+          "photo": "/images/team/elias.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Felias.png?alt=media&token=9877fb42-f57b-4ab5-9c13-4c6ab0fbaac3",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/eliasfnegrete",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/eliasfnegrete",
+              "name": "Twitter"
+            }
+          ],
+          "order": 2,
+          "title": "Software Analyst | GDG Santa Cruz"
+        },
+        {
+          "name": "Karol Haydee Catacora Patana",
+          "photo": "/images/team/karol.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fkarol.jpg?alt=media&token=18c25803-1ede-4091-a549-3ad031e40ddf",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/eliasfnegrete",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/eliasfnegrete",
+              "name": "Twitter"
+            }
+          ],
+          "order": 3,
+          "title": "Web Developer | GDG La Paz, WTM La Paz"
+        },
+        {
+          "name": "Stephanie Belén Saavedra Ayarde ",
+          "photo": "/images/team/stefi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fstefi.jpg?alt=media&token=a1b99710-2a40-4801-829a-aa9988a4c219",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/Tefi.saavedraayarde",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://www.twitter.com/tefi_rocks",
+              "name": "Twitter"
+            }
+          ],
+          "order": 4,
+          "title": "Student | GDG La Paz, WTM La Paz, GDSC UCB"
+        }
+      ],
+      "title": "Speaker Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Brian Dennis Vega Hidalgo",
+          "photo": "/images/team/brian.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fbrian.jpg?alt=media&token=94ba4181-6a9a-4b80-9722-d9409bd5f7c5",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/BrianDVegaH",
+              "name": "Twitter"
+            }
+          ],
+          "order": 0,
+          "title": "Software Engineer | GDG Cohabamba, Angular Bolivia"
+        },
+        {
+          "name": "Cristian Villagomez Morgan",
+          "photo": "/images/team/crisitian.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fcristian.jpeg?alt=media&token=78b82bf2-502b-44a4-ba3d-8a121421d2d9",
+          "socials": [],          
+          "order": 1,
+          "title": "Software Engineer | GDG Santa Cruz"
+        },
+        {
+          "name": "David Samuel Rios Nuñez",
+          "photo": "/images/team/david.jpeg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fdavid.jpeg?alt=media&token=f61a9fd0-4c7d-40a4-b4b6-d83f44106dd4",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/davidriosdev/",
+              "name": "Facebook"
+            }
+          ],          
+          "order": 2,
+          "title": "Mobile Developer | GDG La Paz"
+        },
+        {
+          "name": "Andrea Geraldinne Laruta Coronel",
+          "photo": "/images/team/geraldinne.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fgeraldinne.png?alt=media&token=6900f556-e2fa-431a-a692-f1ac3562226d",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/AndreaGeraldinneLarutaC",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/AndreaG_Latina",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://www.blogger.com/profile/08757226147552564029",
+              "name": "Website"
+            }
+          ],          
+          "order": 3,
+          "title": "System Engineer | GDG Santa Cruz, Mujeres Tics, WTM Santa Cruz"
+        },
+        {
+          "name": "Maria Griselda Garcia Flores",
+          "photo": "/images/team/griss.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fgriss.jpg?alt=media&token=b05b12ba-9a21-482c-820c-d565ff33f19b",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/combigriss",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/combigriss",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/maria-griselda-garcia-flores-b4518b184/",
+              "name": "LinkedIn"
+            }
+          ],          
+          "order": 4,
+          "title": "System Engineer | GDG Cochabamba, Angular Bolivia, GP4Tech, WTM Cochabamba"
+        },
+        {
+          "name": "Irvin Cossio Chavalier",
+          "photo": "/images/team/irvin.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Firvin.jpg?alt=media&token=ad691899-c2aa-4662-ac13-64edce3fc7f2",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/irvin.chavalier/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "website",
+              "link": "https://www.upwork.com/freelancers/~0182908c6407717af1",
+              "name": "Website"
+            }
+          ],          
+          "order": 5,
+          "title": "Mobile Developer | GDG Cochabamba, GP4Tech"
+        },
+        {
+          "name": "Marco Leonardini",
+          "photo": "/images/team/marco.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmarco.jpg?alt=media&token=e5908441-865e-4bc7-a395-f1c3f914a28d",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/irvin.chavalier/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "website",
+              "link": "https://www.upwork.com/freelancers/~0182908c6407717af1",
+              "name": "Website"
+            }
+          ],          
+          "order": 6,
+          "title": "Software Engineer | GDG La Paz"
+        },
+        {
+          "name": "Mauricio Arce Torrez",
+          "photo": "/images/team/mauri.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmauri.jpg?alt=media&token=55498e4e-b3b5-46b4-ab91-e1994f62a571",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/combimauri/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/combimauri/",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "https://combimauri.com/",
+              "name": "Website"
+            }
+          ],          
+          "order": 7,
+          "title": "Frontend Developer | Angular Bolivia, GDG Cochabamba, GP4Tech"
+        },
+        {
+          "name": "Nadir Esdenca Choque Ramod",
+          "photo": "/images/team/nadir.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fnadir.jpg?alt=media&token=37365849-74da-4f02-b2f3-5fbcdaf17be9",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/Nadeskats/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Nadeskats/",
+              "name": "Twitter"
+            }
+          ],          
+          "order": 8,
+          "title": "System Engineer | GDG Cochabamba"
+        },
+        {
+          "name": "Pablo Daniel Noya Quiroz",
+          "photo": "/images/team/pablo.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fpablo.jpg?alt=media&token=d4e0819e-af86-4b57-9946-3179322bef52",
+          "socials": [],          
+          "order": 9,
+          "title": "Full Stack Developer | GDG Sucre"
+        },
+        {
+          "name": "Rodrigo Torrico",
+          "photo": "/images/team/rodrigo.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Frodrigo.jpg?alt=media&token=534c03b6-f15d-4645-87c5-ab54cbb3a423",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/whiletruedothis/",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/rotorrico",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/torricor/",
+              "name": "LinkedIn"
+            },
+            {
+              "icon": "website",
+              "link": "https://rtorrico.com/",
+              "name": "Website"
+            }
+          ],          
+          "order": 10,
+          "title": "Frontend Developer | GDG Cochabamba, Angular Bolivia"
+        },
+        {
+          "name": "Ruth Vargas",
+          "photo": "/images/team/rodrigo.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fruth.jpg?alt=media&token=8d59efbb-66ed-470f-8101-ed515061111c",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/vargasmruth",
+              "name": "Twitter"
+            }
+          ],          
+          "order": 11,
+          "title": "Software Developer | GDG Santa Cruz, WTM Santa Cruz"
+        },
+        {
+          "name": "Sergio Antonio Ochoa Martinez",
+          "photo": "/images/team/sergio.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fsergio.jpeg?alt=media&token=452b1067-0c19-4807-8d30-e63dca929929",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/gnujavasergio",
+              "name": "Twitter"
+            }
+          ],          
+          "order": 12,
+          "title": "Software Developer | GDG Sucre"
+        },
+        {
+          "name": "Silvana Gutierrez Montaño",
+          "photo": "/images/team/silvana.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fsilvana.jpg?alt=media&token=7b5e0995-7814-4529-b7d6-98fee14cf73b",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/SilvanaGuti",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/Sil_Guty",
+              "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/silvanagutierrezm",
+              "name": "LinkedIn"
+            }
+          ],          
+          "order": 13,
+          "title": "Backend developer | GDG La Paz, WTM La Paz"
+        },
+        {
+          "name": "Sofia Toro",
+          "photo": "/images/team/sofi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fsofi.jpg?alt=media&token=32013100-5035-4cf8-b86f-b6f00a9d0914",
+          "socials": [],          
+          "order": 13,
+          "title": "Software Developer | GDG Cochabamba, GDSC Univalle"
+        }
+
+      ],
+      "title": "Development Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Carla Valeria Guzmán Cayuba",
+          "photo": "/images/team/carla.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fcarla.jpg?alt=media&token=cd924114-4172-4ca0-9e7f-d0301ed7041b",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ValeriaMoon4",
+              "name": "Facebook"
+            }
+          ],
+          "order": 0,
+          "title": "Software Engineer | Mujeres Tics"
+        },
+        {
+          "name": "Carlos Collazos",
+          "photo": "/images/team/carlitos.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fcarlitos.jpg?alt=media&token=0d5fa46d-4c09-4939-a46f-8492206e14ea",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/uxcarlitos",
+              "name": "Twitter"
+            }
+          ],
+          "order": 1,
+          "title": "UI/UX designer | GDG Cochabamba"
+        },
+        {
+          "name": "Diana Calizaya",
+          "photo": "/images/team/diana.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fdiana.jpg?alt=media&token=e5bef8f9-860d-4480-a2d9-2a02535db542",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/dianacalizaya.py",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dianacalizaya_",
+              "name": "Twitter"
+            }
+          ],
+          "order": 2,
+          "title": "Software Developer | GDG La Paz, GDSC UMSA, Muejers Tics, WTM La Paz"
+        },
+        {
+          "name": "Gustavo Pacchi Villarroel",
+          "photo": "/images/team/gus.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fgus.png?alt=media&token=f2dfea15-0677-4e38-aec4-0ed13b9af6ba",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/guszUIUX",
+              "name": "Twitter"
+            }
+          ],
+          "order": 3,
+          "title": "UI/UX designer | Angular Bolivia"
+        },
+        {
+          "name": "Jose Armando Lopez Rodriguez",
+          "photo": "/images/team/jose.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fjose.jpg?alt=media&token=7c689d78-d969-4c37-8872-c2ae9d93c734",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/armandohackcode",
+              "name": "Twitter"
+            }
+          ],
+          "order": 4,
+          "title": "Developer Mobile | GDG Sucre"
+        },
+        {
+          "name": "Melany Ventura",
+          "photo": "/images/team/melany.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmelany.jpg?alt=media&token=ef3caca9-a68b-44e1-a5d6-83b0d4e7d611",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/melanyventurah",
+              "name": "Facebook"
+            }
+          ],
+          "order": 5,
+          "title": "UI/UX designer | GDSC UMSA"
+        },
+        {
+          "name": "Melvy Rocío Ancieta Alvarado",
+          "photo": "/images/team/melvy.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmelvy.jpg?alt=media&token=95c1a1ac-478f-4cd5-bf61-2c6e4c8a4be9",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/melvyrocio.ancieta",
+              "name": "Facebook"
+            }
+          ],
+          "order": 6,
+          "title": "Graphic designer | Angular Bolivia, GDG Cochabamba, WTM Cochabamba"
+        },
+        {
+          "name": "Rayssa Anelisse Aguirre Villarte",
+          "photo": "/images/team/raysaa.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fraysaa.jpg?alt=media&token=448610d9-0b76-4bf1-b9e6-bea8fb7d9678",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/rayssa.aguirrevillarte",
+              "name": "Facebook"
+            }
+          ],
+          "order": 7,
+          "title": "Consultor | GDG La Paz, Mujeres Tics, WTM La Paz"
+        },
+        {
+          "name": "Sofia Gonzales Soria Galvarro",
+          "photo": "/images/team/sofi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fsofi.png?alt=media&token=5fe0b069-a5fb-4a33-b7f4-6bce7d1f898b",
+          "socials": [],
+          "order": 8,
+          "title": "Student | GDSC UCB"
+        },
+        {
+          "name": "Jacqueline Susan Mejía",
+          "photo": "/images/team/susy.png",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fsusy.png?alt=media&token=b84f80b9-f2f9-4426-9b92-7973cefa644b",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/susyjam",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/susyjam",
+              "name": "Twitter"
+            }
+          ],
+          "order": 9,
+          "title": "Data Analyst | GDG Cochabamba"
+        },
+        {
+          "name": "Carla Valeria Guzmán Cayuba ",
+          "photo": "/images/team/valeria.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fvaleria.jpg?alt=media&token=a17852f3-005e-45e3-9703-338cbe2995a1",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ValeriaMoon4",
+              "name": "Facebook"
+            }
+          ],
+          "order": 10,
+          "title": "Software Engineer | Mujeres Tics"
+        }
+      ],
+      "title": "Marketing Team"
     }
   ],
   "tickets": [
