@@ -20,7 +20,7 @@
   "serviceWorkerAvailable": "Una nueva versión del sitio está disponible.",
   "serviceWorkerInstalling": "El sitio está siendo instalado para su uso offline.",
   "serviceWorkerError": "Error instalando el sitio para su uso offline.",
-  "refresh": "Refresh",
+  "refresh": "Actualizar",
   "position": "Position",
   "country": "Country",
   "time": "Time",
