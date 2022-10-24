@@ -94,8 +94,8 @@ export const theme = css`
   }
 
   mwc-button {
-    // --mdc-theme-primary: var(--default-primary-color);
-    // --mdc-theme-on-primary: var(--default-background-color);
+    --mdc-theme-primary: var(--default-primary-color);
+    --mdc-theme-on-primary: var(--default-background-color);
   }
 
   paper-button {
