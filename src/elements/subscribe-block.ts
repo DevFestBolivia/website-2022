@@ -60,12 +60,16 @@ export class SubscribeBlock extends ReduxMixin(PolymerElement) {
         <div class="description">[[subscribeBlock.callToAction.description]]</div>
         <div class="cta-button">
           <paper-button
-            class="animated icon-right"
-            disabled$="[[subscribed.data]]"
-            on-click="subscribe"
+            primary=""
+            invert=""
+            role="button"
+            tabindex="0"
+            animated=""
+            elevation="0"
+            aria-disabled="false"
           >
-            <span class="cta-label">[[ctaLabel]]</span>
-            <iron-icon icon$="hoverboard:[[ctaIcon]]"></iron-icon>
+            <iron-icon icon="hoverboard:ticket"></iron-icon>
+            Registrarse
           </paper-button>
         </div>
       </div>

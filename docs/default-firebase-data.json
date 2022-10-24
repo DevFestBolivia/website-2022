@@ -1884,7 +1884,7 @@
               "icon": "facebook",
               "link": "https://www.facebook.com/jeymi.paulas",
               "name": "Facebook"
-            },
+            }
           ],
           "order": 7,
           "title": "Software Developer | GDG Cochabamba, WTM Cochabamba"
@@ -2601,10 +2601,10 @@
   },
   "videos": [
     {
-      "speakers": "Yonatan Levin",
-      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/hoverboard-firebase.appspot.com/o/images%2Fsessions%2F2017%2FGDG-(65).jpg?alt=media&token=f25f04cf-9a10-42ed-b2ff-e41fad910c39",
-      "title": "Making mistakes and building products from 1st to 30M users",
-      "youtubeId": "hUY8jg9-ieE"
+      "speakers": "DevFest Cochabamba",
+      "thumbnail": "https://i.ytimg.com/vi/5LDrKYHTyko/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDex5FMweWMfmXw2kFb-Wn8fqzXnw",
+      "title": "DevFest Cochabamba 2018",
+      "youtubeId": "5LDrKYHTyko"
     },
     {
       "speakers": "Britt Barak",

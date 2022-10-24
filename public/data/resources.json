@@ -1,5 +1,5 @@
 {
-  "title": "GDG DevFest 2022",
+  "title": "DevFest Bolivia 2022",
   "description": "¡Únete a la comunidad, aprende nuevas cosas!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
@@ -147,20 +147,20 @@
     },
     "statisticsBlock": {
       "attendees": {
-        "label": "Attendees",
-        "number": "900"
+        "label": "Asistentes",
+        "number": "+250"
       },
       "days": {
-        "label": "Days",
+        "label": "Días",
         "number": "2"
       },
       "sessions": {
-        "label": "Sessions",
-        "number": "50"
+        "label": "Sesiones",
+        "number": "+20"
       },
       "tracks": {
         "label": "Tracks",
-        "number": "4"
+        "number": "2"
       }
     }
   },
@@ -183,10 +183,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Videos de DevFest anteriores",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "Ver más videos",
+      "link": "https://www.youtube.com/results?search_query=DevFest+bolivia"
     }
   },
   "blog": {
@@ -232,8 +232,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Regístrate para poder ser parte del primer DevFest Bolivia 2022",
+      "label": "Registrarse"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -309,30 +309,30 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/bolivia-team.JPG",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizadores",
+        "description": "Este año las comunidades GDG bolivianas asi como las comunidades Angular Bolivia, GP4Tech y Mujeres Tics con sedes en: Cochabamba, La Paz, Santa Cruz y Sucre, se unieron para traer el primer DevFest a nivel Bolivia. ❤💛💚",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Ver al equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is a GDG?",
-        "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",
+        "title": "¿Qué es GDG?",
+        "description": "Google Developer Group (grupo de desarrolladores de Google) es una comunidad de voluntarios que crean proyectos emocionantes y comparten experiencias sobre las tecnologías de Google.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Saber más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "¿Qué es DevFest?",
+        "description": "DevFests son eventos para desarrolladores dirigidos por la comunidad y organizados por grupos de desarrolladores de Google en todo el mundo.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Saber más",
           "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
