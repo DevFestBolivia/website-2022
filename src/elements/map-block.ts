@@ -79,7 +79,7 @@ export class MapBlock extends ReduxMixin(PolymerElement) {
             latitude="[[location.pointer.latitude]]"
             longitude="[[location.pointer.longitude]]"
             title="[[location.name]]"
-            icon="images/map-marker.svg"
+            icon="images/map-marker.svg?v=1.1"
           ></google-map-marker>
         </google-map>
       </template>

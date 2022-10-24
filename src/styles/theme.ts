@@ -38,7 +38,7 @@ export const theme = css`
     --font-family: -apple-system, blinkmacsystemfont, 'Segoe UI', roboto, helvetica, arial,
       sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
     --max-container-width: 1280px;
-    --primary-color-transparent: rgb(566 133 244 / 10%);
+    --primary-color-transparent: rgb(66 133 244 / 10%);
     --primary-color-light: rgb(66 133 244 / 80%);
     --primary-color-white: #e6ecf7;
 
@@ -94,8 +94,8 @@ export const theme = css`
   }
 
   mwc-button {
-    --mdc-theme-primary: var(--default-primary-color);
-    --mdc-theme-on-primary: var(--default-background-color);
+    // --mdc-theme-primary: var(--default-primary-color);
+    // --mdc-theme-on-primary: var(--default-background-color);
   }
 
   paper-button {
