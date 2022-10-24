@@ -7,19 +7,19 @@
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "followUs": "Síguenos",
+  "emailUs": "Escríbenos",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Registrarse",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "Trailer",
-  "offlineMessage": "You can still work offline.",
-  "serviceWorkerInstalled": "App is now installed and available offline.",
-  "serviceWorkerAvailable": "A new version of this app is available.",
-  "serviceWorkerInstalling": "App being installed for offline use.",
-  "serviceWorkerError": "Error caching for offline use.",
+  "offlineMessage": "Aún puedes navegar offline.",
+  "serviceWorkerInstalled": "El sitio fue instalado y ahora se puede usar offline.",
+  "serviceWorkerAvailable": "Una nueva versión del sitio está disponible.",
+  "serviceWorkerInstalling": "El sitio está siendo instalado para su uso offline.",
+  "serviceWorkerError": "Error instalando el sitio para su uso offline.",
   "refresh": "Refresh",
   "position": "Position",
   "country": "Country",
@@ -186,7 +186,7 @@
     "title": "Videos de DevFest anteriores",
     "callToAction": {
       "label": "Ver más videos",
-      "link": "https://www.youtube.com/results?search_query=DevFest+bolivia"
+      "link": "https://www.youtube.com/results?search_query=DevFest+Bolivia"
     }
   },
   "blog": {
@@ -309,7 +309,7 @@
     }
   },
   "aboutOrganizerBlock": {
-    "image": "/images/bolivia-team.JPG",
+    "image": "/images/bolivia-team.jpeg",
     "blocks": [
       {
         "title": "Organizadores",

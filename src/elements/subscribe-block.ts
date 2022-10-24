@@ -5,7 +5,6 @@ import '@polymer/paper-button';
 import { html, PolymerElement } from '@polymer/polymer';
 import { DialogData } from '../models/dialog-form';
 import { RootState, store } from '../store';
-import { openSubscribeDialog } from '../store/dialogs/actions';
 import { ReduxMixin } from '../store/mixin';
 import { subscribe } from '../store/subscribe/actions';
 import { initialSubscribeState, SubscribeState } from '../store/subscribe/state';
@@ -67,6 +66,7 @@ export class SubscribeBlock extends ReduxMixin(PolymerElement) {
             animated=""
             elevation="0"
             aria-disabled="false"
+            on-click="subscribe"
           >
             <iron-icon icon="hoverboard:ticket"></iron-icon>
             Registrarse
@@ -105,36 +105,7 @@ export class SubscribeBlock extends ReduxMixin(PolymerElement) {
   }
 
   private subscribe() {
-    let userData = {
-      firstFieldValue: '',
-      secondFieldValue: '',
-    };
-
-    if (this.user instanceof Success) {
-      const name = this.user.data.displayName?.split(' ') || ['', ''];
-      userData = {
-        firstFieldValue: name[0] || '',
-        secondFieldValue: name[1] || '',
-      };
-
-      if (this.user.data.email) {
-        this.subscribeAction({ ...userData, email: this.user.data.email });
-      }
-    }
-
-    if (this.user instanceof Success && this.user.data.email) {
-      this.subscribeAction({ ...userData, email: this.user.data.email });
-    } else {
-      openSubscribeDialog({
-        title: this.subscribeBlock.formTitle,
-        submitLabel: this.subscribeBlock.subscribe,
-        firstFieldLabel: this.subscribeBlock.firstName,
-        secondFieldLabel: this.subscribeBlock.lastName,
-        firstFieldValue: userData.firstFieldValue,
-        secondFieldValue: userData.secondFieldValue,
-        submit: (data) => this.subscribeAction(data),
-      });
-    }
+    window.open('https://forms.gle/jw4W4sUNfW8hFNDY9', '_blank', 'noopener,noreferrer');
   }
 
   private subscribeAction(data: DialogData) {

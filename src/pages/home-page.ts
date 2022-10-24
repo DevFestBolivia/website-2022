@@ -250,10 +250,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
         <fork-me-block></fork-me-block>
       </template>
       <about-block></about-block>
-      <speakers-block></speakers-block>
       <subscribe-block></subscribe-block>
-      <tickets-block id="tickets-block"></tickets-block>
-      <gallery-block></gallery-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
       <map-block></map-block>
@@ -284,12 +281,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   }
 
   private scrollToTickets() {
-    const element = this.$['tickets-block'];
-    if (element) {
-      scrollToElement(element);
-    } else {
-      store.dispatch(queueSnackbar('Error scrolling to section.'));
-    }
+    window.open('https://forms.gle/jw4W4sUNfW8hFNDY9', '_blank', 'noopener,noreferrer');
   }
 
   private scrollNextBlock() {
