@@ -67,7 +67,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
         }
 
         .nav-items {
-          --paper-tabs-selection-bar-color: var(--text-primary-color);
+          --paper-tabs-selection-bar-color: var(--secondary-color);
           --paper-tabs: {
             height: 64px;
           }
