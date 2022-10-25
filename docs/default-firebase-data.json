@@ -1755,6 +1755,21 @@
           ],
           "order": 3,
           "title": "UI/UX designer | Angular Bolivia"
+        },
+
+        {
+          "name": "Melvy Rocío Ancieta Alvarado",
+          "photo": "/images/team/melvy.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmelvy.jpg?alt=media&token=95c1a1ac-478f-4cd5-bf61-2c6e4c8a4be9",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/melvyrocio.ancieta",
+              "name": "Facebook"
+            }
+          ],
+          "order": 6,
+          "title": "Graphic designer | Angular Bolivia, GDG Cochabamba, WTM Cochabamba"
         }
       ],
       "title": "Design Team"
@@ -1764,7 +1779,7 @@
         {
           "name": "Andrea Cornejo",
           "photo": "/images/team/andrea.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Falejandro.jpg?alt=media&token=0b1d0682-5617-49b7-a4f0-ff3ab4d07156",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fandrea.jpg?alt=media&token=47f8fd6e-f534-4aa8-b6fb-6bab4f0c3597",
           "socials": [
             {
               "icon": "facebook",
@@ -2366,7 +2381,6 @@
           "order": 13,
           "title": "Software Developer | GDG Cochabamba, GDSC Univalle"
         }
-
       ],
       "title": "Development Team"
     },
@@ -2460,20 +2474,6 @@
           ],
           "order": 5,
           "title": "UI/UX designer | GDSC UMSA"
-        },
-        {
-          "name": "Melvy Rocío Ancieta Alvarado",
-          "photo": "/images/team/melvy.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fmelvy.jpg?alt=media&token=95c1a1ac-478f-4cd5-bf61-2c6e4c8a4be9",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/melvyrocio.ancieta",
-              "name": "Facebook"
-            }
-          ],
-          "order": 6,
-          "title": "Graphic designer | Angular Bolivia, GDG Cochabamba, WTM Cochabamba"
         },
         {
           "name": "Rayssa Anelisse Aguirre Villarte",
