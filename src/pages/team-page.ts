@@ -133,7 +133,7 @@ export class TeamPage extends ReduxMixin(PolymerElement) {
         </template>
 
         <template is="dom-if" if="[[failure]]">
-          <p>Error loading teams.</p>
+          <p>Error cargando los equipos.</p>
         </template>
 
         <template is="dom-repeat" items="[[teamsMembers.data]]" as="team">
