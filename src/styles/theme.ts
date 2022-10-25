@@ -20,6 +20,7 @@ export const theme = css`
     --border-light-color: #e2e2e2;
     --error-color: #e64a19;
     --nav-background-color: #000;
+    --secondary-color: #f9c00d;
 
     /* Custom */
     --default-background-color: #fff;
