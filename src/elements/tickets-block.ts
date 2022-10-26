@@ -122,7 +122,7 @@ export class TicketsBlock extends ReduxMixin(PolymerElement) {
           }
 
           .ticket-item {
-            max-width: 200px;
+            max-width: 370px;
           }
 
           .ticket-item[in-demand] {
@@ -133,6 +133,8 @@ export class TicketsBlock extends ReduxMixin(PolymerElement) {
 
       <div class="tickets-wrapper container">
         <h1 class="container-title">[[ticketsBlock.title]]</h1>
+        <div class="additional-info">* [[ticketsBlock.payDetails]]</div>
+
         <content-loader
           class="tickets-placeholder"
           card-padding="24px"
@@ -168,16 +170,7 @@ export class TicketsBlock extends ReduxMixin(PolymerElement) {
                 <h4>[[ticket.name]]</h4>
               </div>
               <div class="content" layout vertical flex-auto>
-                <div class="ticket-price-wrapper">
-                  <div class="price">[[ticket.currency]][[ticket.price]]</div>
-                  <div class="discount">[[getDiscount(ticket)]]</div>
-                </div>
-                <div class="type-description" layout vertical flex-auto center-justified>
-                  <div class="ticket-dates" hidden$="[[!ticket.starts]]">
-                    [[ticket.starts]] - [[ticket.ends]]
-                  </div>
-                  <div class="ticket-info">[[ticket.info]]</div>
-                </div>
+                <img src="[[ticket.image]]" />
               </div>
               <div class="actions">
                 <div class="sold-out" block$="[[ticket.soldOut]]">[[ticketsBlock.soldOut]]</div>
@@ -193,7 +186,7 @@ export class TicketsBlock extends ReduxMixin(PolymerElement) {
           </template>
         </div>
 
-        <div class="additional-info">*[[ticketsBlock.ticketsDetails]]</div>
+        <div class="additional-info">* [[ticketsBlock.ticketsDetails]]</div>
       </div>
     `;
   }

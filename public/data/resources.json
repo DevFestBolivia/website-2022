@@ -165,11 +165,13 @@
     }
   },
   "ticketsBlock": {
-    "title": "Tickets",
-    "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+    "title": "Paquetes",
+    "payDetails": "Por favor realiza el pago escaneando el QR del paquete de tu agrado y envía el comprobante de pago registrandote en el formulario.",
+    "ticketsDetails": "Todos los paquetes dan acceso a todas las charlas y/o talleres los dos días del evento. Los sourvenirs dependerán del paquete que elegiste. Una vez se realice la transferencia no olvide registrarse en el formulario.",
     "soldOut": "You missed it!",
     "notAvailableYet": "Not available yet",
-    "save": "Save ${discount}% today"
+    "save": "Save ${discount}% today",
+    "registerUrl": "https://forms.gle/jw4W4sUNfW8hFNDY9"
   },
   "partnersBlock": {
     "title": "Partners",
