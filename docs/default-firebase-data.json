@@ -2113,6 +2113,25 @@
           ],
           "order": 4,
           "title": "Student | GDG La Paz, WTM La Paz, GDSC UCB"
+        },
+        {
+          "name": "Astrit Altamirano",
+          "photo": "/images/team/stefi.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fastrit.jpg?alt=media&token=a84ec022-1dc4-4996-ab15-5ce11f51ae40",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/astrit.altamirano",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/AstritAltamiran",
+              "name": "Twitter"
+            }
+          ],
+          "order": 5,
+          "title": "Web Developer | GDG La Paz, GDSC UMSA, WTM La Paz"
         }
       ],
       "title": "Speaker Team"
@@ -2517,18 +2536,66 @@
           "title": "Data Analyst | GDG Cochabamba"
         },
         {
-          "name": "Carla Valeria Guzmán Cayuba ",
+          "name": "Valeria Delgadillo Escobar",
           "photo": "/images/team/valeria.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fvaleria.jpg?alt=media&token=a17852f3-005e-45e3-9703-338cbe2995a1",
           "socials": [
             {
               "icon": "facebook",
-              "link": "https://www.facebook.com/ValeriaMoon4",
+              "link": "https://www.facebook.com/valeria.delgadillo.549",
               "name": "Facebook"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/valdelgadilloe",
+              "name": "Instagram"
             }
           ],
           "order": 10,
-          "title": "Software Engineer | Mujeres Tics"
+          "title": "Estudiante | GDSC Univalle"
+        },
+        {
+          "name": "Ivan Sangueza Alarcon",
+          "photo": "/images/team/valeria.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fivan.jpg?alt=media&token=167991b9-5d67-4d87-8c2f-758196dc2ddc",
+          "socials": [
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ivansanguezaX ",
+              "name": "Twitter"
+            },
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/ivansanguezax/",
+              "name": "Instagram"
+            },
+            {
+              "icon": "website",
+              "link": "https://ivansanguezax.dev/",
+              "name": "Website"
+            }
+          ],
+          "order": 11,
+          "title": "Web Developer | GDG La Paz, GDSC UMSA"
+        },
+        {
+          "name": "Yamil Ignacio Paz Sea",
+          "photo": "/images/team/valeria.jpg",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fjuanalfonso.jpeg?alt=media&token=5522feac-d443-4821-bf8e-576ff1a4fe23",
+          "socials": [
+            {
+              "icon": "instagram",
+              "link": "https://www.instagram.com/nacho.svg/",
+              "name": "Instagram"
+            },
+            {
+              "icon": "website",
+              "link": "https://linktr.ee/ignaciopz",
+              "name": "Website"
+            }
+          ],
+          "order": 12,
+          "title": "Estudiante de Ingeniería de Sistemas, FullStack Developer | GDSC UCB"
         }
       ],
       "title": "Marketing Team"
