@@ -254,6 +254,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       <tickets-block></tickets-block>
       <about-organizer-block></about-organizer-block>
       <featured-videos></featured-videos>
+      <gallery-block></gallery-block>
       <map-block></map-block>
       <partners-block></partners-block>
       <footer-block></footer-block>
