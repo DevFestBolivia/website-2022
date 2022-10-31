@@ -222,11 +222,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "#devfest2022",
+    "description": "Estos años estuvimos construyendo recuerdos de eventos inmemorables alrededor de toda Bolivia 🇧🇴. Puedes ver fotos de anteriores versiones del evento.",
     "callToAction": {
-      "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "label": "Ver fotos",
+      "link": "https://photos.app.goo.gl/GNbu7CWvk3W9ApNP7"
     }
   },
   "mapBlock": {
