@@ -2427,20 +2427,6 @@
           "title": "Software Engineer | Mujeres Tics"
         },
         {
-          "name": "Carlos Collazos",
-          "photo": "/images/team/carlitos.jpg",
-          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fcarlitos.jpg?alt=media&token=0d5fa46d-4c09-4939-a46f-8492206e14ea",
-          "socials": [
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/uxcarlitos",
-              "name": "Twitter"
-            }
-          ],
-          "order": 1,
-          "title": "UI/UX designer | GDG Cochabamba"
-        },
-        {
           "name": "Diana Calizaya",
           "photo": "/images/team/diana.jpg",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/team%2Fdiana.jpg?alt=media&token=e5bef8f9-860d-4480-a2d9-2a02535db542",
