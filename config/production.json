@@ -1,7 +1,7 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.web.app/",
-  "googleMapApiKey": "AIzaSyCJqlRVGIe6bfU43rga3cnK7tSXXwc7JD8",
+  "url": "https://hoverboard-dev.web.app/",
+  "googleMapApiKey": "AIzaSyAKOkGjmfBPTuYlDyPxlrSj7H-1oqWET7E",
   "firebase": {
     "apiKey": "AIzaSyBUku7A0WvaSk77mpZ-4bNe_qJqd0dVCGs",
     "appId": "1:988130440765:web:90c8c27137597e4d9e1c54",
