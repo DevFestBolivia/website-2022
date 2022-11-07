@@ -79,7 +79,31 @@
       "apikey": ""
     }
   },
-  "partners": [
+  "partners": [    
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/ucatec.png",
+          "name": "UCATEC",
+          "url": "https://ucatec.edu.bo/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/digital-harbor.png",
+          "name": "Digital Harbor",
+          "url": "https://www.digitalharborbolivia.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/tu-gerente.png",
+          "name": "Tu Gerente",
+          "url": "https://www.tugerente.com/"
+        }
+      ],
+      "order": 0,
+      "title": "Patrocinadores"
+    },
     {
       "items": [
         {
@@ -179,7 +203,7 @@
           "url": "https://www.facebook.com/profile.php?id=100057954379270"
         }
       ],
-      "order": 0,
+      "order": 1,
       "title": "Comunidades organizadoras"
     }
   ],
