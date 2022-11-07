@@ -79,7 +79,31 @@
       "apikey": ""
     }
   },
-  "partners": [
+  "partners": [    
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/ucatec.png",
+          "name": "UCATEC",
+          "url": "https://ucatec.edu.bo/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/digital-harbor.png",
+          "name": "Digital Harbor",
+          "url": "https://www.digitalharborbolivia.com/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/tu-gerente.png",
+          "name": "Tu Gerente",
+          "url": "https://www.tugerente.com/"
+        }
+      ],
+      "order": 0,
+      "title": "Patrocinadores"
+    },
     {
       "items": [
         {
@@ -179,7 +203,7 @@
           "url": "https://www.facebook.com/profile.php?id=100057954379270"
         }
       ],
-      "order": 0,
+      "order": 1,
       "title": "Comunidades organizadoras"
     }
   ],
@@ -2596,16 +2620,16 @@
   ],
   "tickets": [
     {
-      "available": true,
+      "available": false,
       "currency": "$",
       "ends": "Nov 17",
       "info": "",
       "name": "",
       "price": 0,
-      "soldOut": false,
+      "soldOut": true,
       "starts": "Oct 24",
       "url": "https://forms.gle/jw4W4sUNfW8hFNDY9",
-      "image": "/images/tickets/card-web-rojo.png?v=1.0"
+      "image": "/images/tickets/red-sold-out.png?v=3"
     },
     {
       "available": true,
