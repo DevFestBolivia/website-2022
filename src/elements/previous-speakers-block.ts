@@ -71,7 +71,7 @@ export class PreviousSpeakersBlock extends ReduxMixin(PolymerElement) {
         }
       </style>
 
-      <div class="container">
+      <!-- <div class="container">
         <h1 class="container-title">[[previousSpeakersBlock.title]]</h1>
 
         <div class="speakers-wrapper">
@@ -100,7 +100,7 @@ export class PreviousSpeakersBlock extends ReduxMixin(PolymerElement) {
             <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
           </paper-button>
         </a>
-      </div>
+      </div> -->
     `;
   }
 
