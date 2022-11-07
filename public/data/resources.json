@@ -168,7 +168,7 @@
     "title": "Paquetes",
     "payDetails": "Por favor realiza el pago escaneando el QR del paquete de tu agrado y envía el comprobante de pago registrandote en el formulario.",
     "ticketsDetails": "Todos los paquetes dan acceso a todas las charlas y/o talleres los dos días del evento. Los sourvenirs dependerán del paquete que elegiste. Una vez se realice la transferencia no olvide registrarse en el formulario.",
-    "soldOut": "You missed it!",
+    "soldOut": "¡Te lo perdiste!",
     "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today",
     "registerUrl": "https://forms.gle/jw4W4sUNfW8hFNDY9"
