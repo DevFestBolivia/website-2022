@@ -5,9 +5,9 @@ import { Id } from './types';
 export interface SpeakerData {
   badges?: Badge[];
   bio: string;
-  company: string;
-  companyLogo: string;
-  companyLogoUrl: string;
+  company?: string;
+  companyLogo?: string;
+  companyLogoUrl?: string;
   country: string;
   featured: boolean;
   name: string;
