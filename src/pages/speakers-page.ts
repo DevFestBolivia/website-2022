@@ -224,11 +224,11 @@ export class SpeakersPage extends ReduxMixin(PolymerElement) {
               </div>
             </div>
 
-            <lazy-image
+            <!-- <lazy-image
               class="company-logo"
               src="[[speaker.companyLogoUrl]]"
               alt="[[speaker.company]]"
-            ></lazy-image>
+            ></lazy-image> -->
 
             <div class="description">
               <h2 class="name">[[speaker.name]]</h2>
