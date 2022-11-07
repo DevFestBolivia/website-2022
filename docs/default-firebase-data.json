@@ -941,48 +941,28 @@
       "order": 4,
       "title": "UI/UX Designer"
     },
-    "gustavo_lizarraga": {
-      "bio": "Gustavo es Licenciado en Informática e Ingeniería de Sistemas de la Universidad Mayor de San Andrés. Es GitHub Campus Expert, Auth0 Ambassador y GitKraken Ambassador. Consultor en OneSignal como creador de contenido. Streamer en GitHub Education. Volunteer DevRel en GitHub Presente y Octogatos. Desarrollador Freelance Android e iOS con Kotlin, Swift y Flutter. Instructor Android para ATC certificado para Cognos. Instructor especialista en OpenWebinars.  Organizador de DevHeroX y Kotlin La Paz. Fundador del GDG Android Bolivia y mDevConf.",
+    "viqui_maribel_alaro": {
+      "bio": "Apasionada desarrolladora de aplicaciones en móviles con más de tres años de experiencia, soy licenciada en informática de la universidad Mayor de san Andrés actualmente trabajo en el servicio de impuestos nacionales liderando proyectos en el equipo móvil igualmente participe como expositor en eventos tecnológicos, soy miembro de comunidades y cuento con un diplomado en java y soy certificada en Android Certified Application Developer y LPIC-1 101, en la universidad fui auxiliar de docencia me encanta apoyar a la educación con tecnología.",
       "country": "La Paz, Bolivia",
       "featured": false,
-      "name": "Gustavo Lizárraga",
-      "photo": "/images/speakers/gustavo_lizarraga.jpeg",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fgustavo_lizarraga.jpeg?alt=media&token=20452130-82d4-4c87-849a-57ea1c34545eL",
-      "shortBio": "Gustavo es Licenciado en Informática e Ingeniería de Sistemas de la Universidad Mayor de San Andrés.",
+      "name": "Viqui Maribel Alaro Mamani",
+      "photo": "/images/speakers/viqui_alaro.jpeg",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fviqui_alaro.jpg?alt=media&token=cd1bf8d2-7589-436b-8fa1-c5a83cb276d1",
+      "shortBio": "Apasionada desarrolladora de aplicaciones en móviles con más de tres años de experiencia, soy licenciada en informática...",
       "socials": [
         {
-          "icon": "github",
-          "link": "https://github.com/lizarragadev",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/lizarragadev",
-          "name": "Twitter"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://ua.linkedin.com/in/lizarragadev",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "instagram",
-          "link": "https://instagram.com/lizarragadev/",
-          "name": "Instagram"
-        },
-        {
           "icon": "facebook",
-          "link": "https://facebook.com/lizarragadev",
+          "link": "https://facebook.com/viqui.alaromamni",
           "name": "Facebook"
         },
         {
-          "icon": "website",
-          "link": "https://lizarragadev.github.io/",
-          "name": "Website"
+          "icon": "instagram",
+          "link": "https://instagram.com/viquialaro/",
+          "name": "Instagram"
         }
       ],
       "order": 5,
-      "title": "Systems Engineering"
+      "title": "Bachelor's in computer science"
     },
     "sandro_moreira": {
       "bio": "Mentor de Machine Learning en Google para Startups, Investigador del Centro de Excelencia en Inteligencia Artificial (CEIA), Líder de Comunidades Tecnológicas GDG Rio Verde y TensorFlow Goiás, Docente y Gerente de Tecnología en UniRV - Universidad de Rio Verde.",
