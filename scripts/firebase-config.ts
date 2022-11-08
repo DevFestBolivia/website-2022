@@ -1,7 +1,6 @@
 // https://github.com/import-js/eslint-plugin-import/issues/1810
 // eslint-disable-next-line import/no-unresolved
-import { ServiceAccount, cert, initializeApp } from 'firebase-admin/app';
-
+import { cert, initializeApp, ServiceAccount } from 'firebase-admin/app';
 // https://github.com/import-js/eslint-plugin-import/issues/1810
 // eslint-disable-next-line import/no-unresolved
 import { getFirestore } from 'firebase-admin/firestore';
