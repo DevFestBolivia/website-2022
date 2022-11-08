@@ -2027,7 +2027,7 @@
       "image": "/images/tickets/red-sold-out.png?v=3"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "$",
       "ends": "Nov 17",
       "info": "",
