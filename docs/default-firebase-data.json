@@ -2027,16 +2027,16 @@
       "image": "/images/tickets/red-sold-out.png?v=3"
     },
     {
-      "available": true,
+      "available": false,
       "currency": "$",
       "ends": "Nov 17",
       "info": "",
       "name": "",
       "price": 0,
-      "soldOut": false,
+      "soldOut": true,
       "starts": "Oct 24",
       "url": "https://forms.gle/jw4W4sUNfW8hFNDY9",
-      "image": "/images/tickets/card-web-amarillo.png?v=1.0"
+      "image": "/images/tickets/yellow-sold-out.png?v=1.0"
     },
     {
       "available": true,
