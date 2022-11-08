@@ -871,7 +871,7 @@
       "name": "Nicolas Molina",
       "photo": "/images/speakers/nicolas_molina.jpeg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fnicolas_molina.jpg?alt=media&token=092ca437-348b-43e5-a42a-7d6cb16347c9",
-      "shortBio": "Soy Learning Engineer en Platzi con más de 10 años de experiencia en desarrollo de software enfocado a desarrollo web...",
+      "shortBio": "Soy Learning Engineer en Platzi con más de 10 años de experiencia en desarrollo de software enfocado a desarrollo web, liderazgo técnico, solución de problemas y mentoría. Soy un apasionado por compartir conocimiento y lo hago a través de contribuciones de código, videos, conferencias y creando contenido online, esto me ha llevado a ser reconocido por empresas como Google en el programa de Google Devs Experts, Microsoft con el premio MVP (Most Value Professional) y Ionic en el Programa de Ionic Devs Experts.",
       "socials": [
         {
           "icon": "website",
@@ -907,7 +907,7 @@
       "name": "Yury Camacho",
       "photo": "/images/speakers/yury_camacho.png",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fyury_camacho.png?alt=media&token=dd100b69-8ec4-4e99-964e-d760b84eabe3",
-      "shortBio": "Soy ingeniero de Sistemas, estudie en la UMSS, también soy Google developer Expert en Android y Kotlin...",
+      "shortBio": "Soy ingeniero de Sistemas, estudie en la UMSS, también soy Google developer Expert en Android y Kotlin, vengo dando charlas de tecnología Móviles en especial android desde el 2012, tengo 12 años de experiencia desarrollando apps, trabaje en empresas como Globant, el banco JP Morgan Chase, OLX y actualmente trabajo en Rappi la mas grande super app de Latinoamerica, con el cargo de Technical Lead del equipo de Payments & Fraud.",
       "socials": [
         {
           "icon": "twitter",
@@ -948,7 +948,7 @@
       "name": "Viqui Maribel Alaro Mamani",
       "photo": "/images/speakers/viqui_alaro.jpeg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fviqui_alaro.jpg?alt=media&token=cd1bf8d2-7589-436b-8fa1-c5a83cb276d1",
-      "shortBio": "Apasionada desarrolladora de aplicaciones en móviles con más de tres años de experiencia, soy licenciada en informática...",
+      "shortBio": "Apasionada desarrolladora de aplicaciones en móviles con más de tres años de experiencia, soy licenciada en informática de la universidad Mayor de san Andrés actualmente trabajo en el servicio de impuestos nacionales liderando proyectos en el equipo móvil igualmente participe como expositor en eventos tecnológicos, soy miembro de comunidades y cuento con un diplomado en java y soy certificada en Android Certified Application Developer y LPIC-1 101, en la universidad fui auxiliar de docencia me encanta apoyar a la educación con tecnología.",
       "socials": [
         {
           "icon": "facebook",
@@ -1024,10 +1024,10 @@
       "bio": "Soy licenciado en informática con mención en ingeniería en sistemas, desarrollador móvil desde hace 6 años, diseñador UI/UX, apasionado por la inteligencia artificial, machine learning y deep learning, miembro de PyData La Paz y AI Bolivia.",
       "country": "La Paz, Bolivia",
       "featured": false,
-      "name": "David Mayboroda",
+      "name": "Marcelo Torrez Azuga",
       "photo": "/images/speakers/marcelo_torrez_azuga.jpeg",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/devfest2022dev.appspot.com/o/speakers%2Fmarcelo_torrez_azuga.jpeg?alt=media&token=e2ef08ff-4d13-4b50-930a-1047aee019ef",
-      "shortBio": "Soy licenciado en informática con mención en ingeniería en sistemas, desarrollador móvil...",
+      "shortBio": "Soy licenciado en informática con mención en ingeniería en sistemas, desarrollador móvil desde hace 6 años, diseñador UI/UX, apasionado por la inteligencia artificial, machine learning y deep learning, miembro de PyData La Paz y AI Bolivia.",
       "socials": [
         {
           "icon": "facebook",
