@@ -2049,6 +2049,18 @@
       "starts": "Oct 24",
       "url": "https://forms.gle/jw4W4sUNfW8hFNDY9",
       "image": "/images/tickets/card-web-verde.png?v=1.0"
+    },
+    {
+      "available": true,
+      "currency": "$",
+      "ends": "Nov 17",
+      "info": "",
+      "name": "",
+      "price": 0,
+      "soldOut": false,
+      "starts": "Oct 24",
+      "url": "https://forms.gle/jw4W4sUNfW8hFNDY9",
+      "image": "/images/tickets/card-web-azul.png?v=1.0"
     }
   ],
   "triggers": {
