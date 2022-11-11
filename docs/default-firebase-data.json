@@ -102,7 +102,31 @@
         }
       ],
       "order": 0,
-      "title": "Patrocinadores"
+      "title": "Patrocinadores Platinum"
+    },
+    {
+      "items": [
+        {
+          "order": 0,
+          "logoUrl": "../images/logos/jalasoft.png",
+          "name": "Jalasoft",
+          "url": "https://www.jalasoft.com/"
+        },
+        {
+          "order": 1,
+          "logoUrl": "../images/logos/jala-university.png",
+          "name": "Jala University",
+          "url": "https://jala.university/"
+        },
+        {
+          "order": 2,
+          "logoUrl": "../images/logos/clicket.png",
+          "name": "Clicket",
+          "url": "https://clicket.bo/"
+        }
+      ],
+      "order": 1,
+      "title": "Patrocinadores Silver"
     },
     {
       "items": [
@@ -203,7 +227,7 @@
           "url": "https://www.facebook.com/profile.php?id=100057954379270"
         }
       ],
-      "order": 1,
+      "order": 2,
       "title": "Comunidades organizadoras"
     }
   ],
