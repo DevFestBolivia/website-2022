@@ -4,11 +4,11 @@
   "googleMapApiKey": "AIzaSyAKOkGjmfBPTuYlDyPxlrSj7H-1oqWET7E",
   "firebase": {
     "apiKey": "AIzaSyBUku7A0WvaSk77mpZ-4bNe_qJqd0dVCGs",
-    "appId": "1:988130440765:web:90c8c27137597e4d9e1c54",
     "authDomain": "devfest-bolivia-2022.firebaseapp.com",
-    "databaseURL": "devfest-bolivia-2022.firebaseapp.com",
-    "messagingSenderId": "988130440765",
     "projectId": "devfest-bolivia-2022",
-    "storageBucket": "devfest-bolivia-2022.appspot.com"
+    "storageBucket": "devfest-bolivia-2022.appspot.com",
+    "messagingSenderId": "988130440765",
+    "appId": "1:988130440765:web:90c8c27137597e4d9e1c54",
+    "measurementId": "G-ZRC6S2S9P4"
   }
 }
