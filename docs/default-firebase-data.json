@@ -123,6 +123,18 @@
           "logoUrl": "../images/logos/clicket.png",
           "name": "Clicket",
           "url": "https://clicket.bo/"
+        },
+        {
+          "order": 3,
+          "logoUrl": "../images/logos/vendimia.png",
+          "name": "La Vendimia",
+          "url": "https://www.facebook.com/lavendimiacentrodeeventos"
+        },
+        {
+          "order": 4,
+          "logoUrl": "../images/logos/cucina.png",
+          "name": "Cucina",
+          "url": "https://www.facebook.com/Cucina.catering.eventos"
         }
       ],
       "order": 1,
