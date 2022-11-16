@@ -1811,6 +1811,11 @@
               "icon": "twitter",
               "link": "https://twitter.com/vargasmruth",
               "name": "Twitter"
+            },
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/vargasmruth/",
+              "name": "LinkedIn"
             }
           ],
           "order": 11,
