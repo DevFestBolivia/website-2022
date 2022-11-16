@@ -3,12 +3,12 @@
   "url": "https://hoverboard-dev.web.app/",
   "googleMapApiKey": "AIzaSyAKOkGjmfBPTuYlDyPxlrSj7H-1oqWET7E",
   "firebase": {
-    "apiKey": "AIzaSyBUku7A0WvaSk77mpZ-4bNe_qJqd0dVCGs",
-    "authDomain": "devfest-bolivia-2022.firebaseapp.com",
-    "projectId": "devfest-bolivia-2022",
-    "storageBucket": "devfest-bolivia-2022.appspot.com",
-    "messagingSenderId": "988130440765",
-    "appId": "1:988130440765:web:90c8c27137597e4d9e1c54",
-    "measurementId": "G-ZRC6S2S9P4"
+    "apiKey": "AIzaSyDULj10JuzzdQ1H2lCfQHDRBzQ36qY84po",
+    "appId": "1:328093322585:web:acb6d7dcdbeac7d8001048",
+    "authDomain": "devfest2022dev.firebaseapp.com",
+    "databaseURL": "devfest2022dev.firebaseapp.com",
+    "messagingSenderId": "328093322585",
+    "projectId": "devfest2022dev",
+    "storageBucket": "devfest2022dev.appspot.com"
   }
 }
