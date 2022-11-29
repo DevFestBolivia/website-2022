@@ -284,7 +284,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
   }
 
   private scrollToTickets() {
-    window.open('https://forms.gle/jw4W4sUNfW8hFNDY9', '_blank', 'noopener,noreferrer');
+    window.open('https://photos.app.goo.gl/vHme3m8wV5QUPMLQA', '_blank', 'noopener,noreferrer');
   }
 
   private scrollNextBlock() {
